@@ -77,7 +77,6 @@ export default function Body() {
         };
     }, [currWord]);
 
-    }
 
 
     const handleModeChange = (mode) => {
